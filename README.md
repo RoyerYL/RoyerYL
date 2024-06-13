@@ -1,9 +1,9 @@
 # ¡Hola! 👋
 
-Soy [Royer Rolando Yampasi Laura](https://github.com/RoyerYL), un desarrollador de software apasionado por la creación de aplicaciones web y móviles.
+Soy Royer Rolando Yampasi Laura(https://github.com/RoyerYL), un desarrollador de software apasionado por la creación de aplicaciones web y móviles.
 
 ## Acerca de mí
-- 🌱 Actualmente estoy aprendiendo [JavaScript - Full Stack].
+- 🌱 Actualmente estoy aprendiendo JavaScript - Full Stack.
 - 📫 Puedes contactarme en royeryl03@gmail.com - +54 1122629291
 
 ## Habilidades
