@@ -21,8 +21,3 @@ Deploy: https://penitent-frogs-production-25bf.up.railway.app
 ### [[Proyecto Personal](https://github.com/TuNombre/Proyecto1](https://github.com/RoyerYL/Caja-registradora-1))
 Proyecot personal de una caja registradora.
 
-
-## Conéctate conmigo
-- [Twitter](https://twitter.com/tuusuario)
-- [LinkedIn](https://www.linkedin.com/in/tuusuario/)
-- [Portafolio](https://tunombre.github.io/)
