@@ -15,12 +15,12 @@ https://portfolio-rryl.vercel.app/
 - **Herramientas:** Visual estudio, Insomnia, Intellij ,git 
 
 ## Proyectos PF - soy henry
-### [[Proyecto PF]([https://github.com/TuNombre/Proyecto1](https://github.com/RoyerYL/Caja-registradora-1](https://github.com/Angl098/optimotech-front)))
+### [[Proyecto PF]] en Portfolio
 Proyecot final de Soy henry, e-comerce de suplementos.
 Deploy: https://penitent-frogs-production-25bf.up.railway.app
 
 
 ## Proyectos Personal
-### [[Proyecto Personal](https://github.com/TuNombre/Proyecto1](https://github.com/RoyerYL/Caja-registradora-1))
+### [[Proyecto Personal]) en Portfolio
 Proyecot personal de una caja registradora.
 
