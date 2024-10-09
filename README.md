@@ -1,15 +1,18 @@
-# ¡Hola! 👋
+![image](https://github.com/user-attachments/assets/daf72ffc-ffe0-4ba8-b8c2-7513d0e71ccf)# ¡Hola! 👋
 
 Soy Royer Rolando Yampasi Laura(https://github.com/RoyerYL), un desarrollador de software apasionado por la creación de aplicaciones web y móviles.
 
+## Portofolio 
+https://portfolio-rryl.vercel.app/
+
 ## Acerca de mí
-- 🌱 Actualmente estoy aprendiendo JavaScript - Full Stack.
+- 🌱 Soy Fullstack Developer - Js y Node.js.
 - 📫 Puedes contactarme en royeryl03@gmail.com - +54 1122629291
 
 ## Habilidades
-- **Lenguajes:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, sequelize
-- **Herramientas:** Visual estudio, Insomnia, Intellij
+- **Lenguajes:** JavaScript, Java ,typeScript , html y css
+- **Frameworks:** React, Node.js, sequelize ,Electron ,Ract Native
+- **Herramientas:** Visual estudio, Insomnia, Intellij ,git 
 
 ## Proyectos PF - soy henry
 ### [[Proyecto PF]([https://github.com/TuNombre/Proyecto1](https://github.com/RoyerYL/Caja-registradora-1](https://github.com/Angl098/optimotech-front)))
