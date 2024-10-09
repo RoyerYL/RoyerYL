@@ -1,5 +1,6 @@
 
-Soy Royer Rolando Yampasi Laura(https://github.com/RoyerYL), un desarrollador de software apasionado por la creación de aplicaciones web y móviles.
+Soy Royer Rolando Yampasi Laura(https://github.com/RoyerYL),
+Soy desarrollador Fullstack developer con experiencia de casi 2 años con peuqeños proyectos personales y algunos profesional
 
 ## Portofolio 
 https://portfolio-rryl.vercel.app/
