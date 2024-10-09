@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/daf72ffc-ffe0-4ba8-b8c2-7513d0e71ccf)# ¡Hola! 👋
 
 Soy Royer Rolando Yampasi Laura(https://github.com/RoyerYL), un desarrollador de software apasionado por la creación de aplicaciones web y móviles.
 
