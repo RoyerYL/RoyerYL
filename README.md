@@ -10,7 +10,7 @@ https://portfolio-rryl.vercel.app/
 - 📫 Puedes contactarme en royeryl03@gmail.com - +54 1122629291
 
 ## Habilidades
-- **Lenguajes:** JavaScript, Java ,typeScript , html y css
+- **Lenguajes:** JavaScript, Java ,c++ ,typeScript , html y css
 - **Frameworks:** React, Node.js, sequelize ,Electron ,Ract Native
 - **Herramientas:** Visual estudio, Insomnia, Intellij ,git 
 
